@@ -35,9 +35,3 @@ I'm a big fan of **Open Source** and a **JavaScript.js** lover.
 
 ![](https://github-readme-stats.vercel.app/api?username=yyogesh&show_icons=true&theme=tokyonight&line_height=33)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yyogesh&hide=css,java,html,php,scss,Dockerfile,python&theme=tokyonight&line_height=27)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yyogesh&repo=cotaku&theme=tokyonight)](https://github.com/yyogesh/cotaku)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yyogesh&repo=agraph&theme=tokyonight)](https://github.com/yyogesh/agraph)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yyogesh&repo=thirsy&theme=tokyonight)](https://github.com/yyogesh/thirsy)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yyogesh&repo=stiind&theme=tokyonight)](https://github.com/yyogesh/stiind)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yyogesh&repo=gridbit&theme=tokyonight)](https://github.com/yyogesh/gridbit)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yyogesh&repo=recons&theme=tokyonight)](https://github.com/yyogesh/recons)
