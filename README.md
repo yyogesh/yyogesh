@@ -31,9 +31,10 @@ I'm a big fan of **Open Source** and a **JavaScript.js** lover.
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0054A7?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-<a href="https://app.daily.dev/yogeshggn"><img src="https://api.daily.dev/devcards/519b4f2d08784940a493a5cf9ab5a85c.png?r=46b" width="400" alt="Yogesh Yadav's Dev Card"/></a>
 
 <h3>Statistics and Projects 🥖</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=yyogesh&show_icons=true&theme=tokyonight&line_height=33)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yyogesh&hide=css,java,html,php,scss,Dockerfile,python&theme=tokyonight&line_height=27)
+
+<a href="https://app.daily.dev/yogeshggn"><img src="https://api.daily.dev/devcards/519b4f2d08784940a493a5cf9ab5a85c.png?r=46b" width="400" alt="Yogesh Yadav's Dev Card"/></a>
