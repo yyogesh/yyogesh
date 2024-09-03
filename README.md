@@ -37,4 +37,3 @@ I'm a big fan of **Open Source** and a **JavaScript.js** lover.
 ![](https://github-readme-stats.vercel.app/api?username=yyogesh&show_icons=true&theme=tokyonight&line_height=33)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yyogesh&hide=css,java,html,php,scss,Dockerfile,python&theme=tokyonight&line_height=27)
 
-<a href="https://app.daily.dev/yogeshggn"><img src="https://api.daily.dev/devcards/519b4f2d08784940a493a5cf9ab5a85c.png?r=46b" width="400" alt="Yogesh Yadav's Dev Card"/></a>
